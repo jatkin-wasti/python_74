@@ -26,8 +26,7 @@ age = input("Please enter your age:  ")
 post_code = input("Please enter your post code:  ")
 first_line_address = input("Please enter the first line of your address:  ")
 house_number = input("Please enter your house number:  ")
-print("Your name is " + name + ".\n"
-                               " Your age is " + str(age) +
+print("Your name is " + name + ".\nYour age is " + str(age) +
                                ".\nYour date of birth is " + dob +
                                ".\nYour address is " + str(house_number) +
                                " " + first_line_address + ", " + str(post_code))
