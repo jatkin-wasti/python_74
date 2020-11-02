@@ -27,3 +27,11 @@
 ## Pseudocode:
 - writing what you want the program to do in natural language
 - this pseudocode can be translated into actual code
+
+## Variable Task:
+- Create 3 variables to get user data:
+- name to store their name
+- dob to store their date of birth
+- age to store their age
+- display all of the information
+- display the types of information stored 
