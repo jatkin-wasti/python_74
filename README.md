@@ -21,6 +21,14 @@
 - Types of variables in python:
 - Int, Float, String, Boolean
 
+### Operators
+- \>
+- <
+- ==
+- !=
+- \>=
+- <= 
+
 ## Variable:
 - is a place holder to store data
 
